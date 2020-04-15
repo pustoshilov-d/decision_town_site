@@ -4,7 +4,8 @@ let button1 = document.getElementById("button1");
 let button2 = document.getElementById("button2");
 let play_button = document.getElementById("play");
 let audio = document.getElementById("audio");
-let player = document.getElementById("player")
+let player = document.getElementById("player");
+let logger = document.getElementById('logger');
 
 //{type: "start/end", video_path: "videos/1.mp4", },
 
@@ -43,11 +44,12 @@ audio.volume = 0.2;
 // video.addEventListener('click', () => { video.play(); })
 
 play_button.addEventListener('click', () => {
+    logger.innerHTML = "Клик ёпта";
     player.hidden = false;
     play_button.hidden = true;
     video.play();
     audio.play();
-    // document.body.requestFullscreen();
+    document.body.requestFullscreen();
 });
 
 video.addEventListener('ended', () => {

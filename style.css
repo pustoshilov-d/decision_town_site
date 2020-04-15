@@ -8,6 +8,10 @@ body {
     z-index: 214748;
 }
 
+#logger {
+    color: white;
+}
+
 #video {
     /*background: black;*/
     position: absolute;
