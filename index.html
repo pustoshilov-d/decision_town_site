@@ -5,6 +5,7 @@
         <meta charset="utf-8">
         <title>Hi</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="manifest" href="/manifest.json">
     </head>
 
     <body>
@@ -15,10 +16,12 @@
             <button id="button2" > Ответ 2 </button>
         </section>
 
-        <video id="video" controls>
-            <source src="videos/1.mp4" type="video/mp4">
-        </video>
-        <audio id="audio" src="back_music.mp3" preload="auto"></audio>
+        <section id="player" hidden>
+            <video id="video" controls>
+                <source src="videos/1.mp4" type="video/mp4">
+            </video>
+            <audio id="audio" src="back_music.mp3" preload="auto"></audio>
+        </section>
 
 
     </body>

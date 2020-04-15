@@ -9,7 +9,7 @@ body {
 }
 
 #video {
-    background: black;
+    /*background: black;*/
     position: absolute;
     display: block;
     width: 100%;
@@ -46,7 +46,7 @@ body {
     font-size: 20px;
     border: black;
     margin: 10px;
-    color: #FFF;
-    background-color: rgba(221, 221, 221, 0.3);
+    color: white;
+    background-color: black;
 }
 
