@@ -10,6 +10,7 @@ let logger = document.getElementById('logger');
 //{type: "start/end", video_path: "videos/1.mp4", },
 
 characters = [
+
     {name: "психиатр", ans_text_1: "Оставить ребёнка", ans_text_2: "Сделать аборт", videos: [
         {type: "story", story_path: "videos/1.mp4"},
         {type: "lock",  lock_path: "videos/1.0.mp4"},
@@ -27,6 +28,7 @@ characters = [
             {type: "lock",  lock_path: "videos/3.0.mp4"},
             {type: "answer", path_1: "videos/3.1.mp4", path_2: "videos/3.2.mp4"}
         ]},
+
 ];
 
 // на старте
