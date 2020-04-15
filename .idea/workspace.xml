@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fb6f2ca-01d7-4936-bb89-e7f62ffa3e49" name="Default Changelist" comment="" />
+    <list default="true" id="9fb6f2ca-01d7-4936-bb89-e7f62ffa3e49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/decision_town.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/1.0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/1.1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/1.2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/2.0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/2.1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/2.2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Бра4.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +40,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Programing\Projects\decision_town\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1aXMNXGCOyelqnwet1YNweHfBjT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -51,18 +81,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586877445396</updated>
-      <workItem from="1586877448179" duration="21273000" />
+      <workItem from="1586877448179" duration="21543000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1586911149843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586911149844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586877554256">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="718" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1586877554256" />
+    <state x="585" y="154" key="CommitChangelistDialog2" timestamp="1586911146711">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="585" y="154" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1586911146711" />
     <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1586904044146">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
