@@ -47,7 +47,7 @@ play_button.addEventListener('click', () => {
     play_button.hidden = true;
     video.play();
     audio.play();
-    document.body.requestFullscreen();
+    // document.body.requestFullscreen();
 });
 
 video.addEventListener('ended', () => {
