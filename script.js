@@ -33,7 +33,7 @@ button1.innerHTML = cur_character.ans_text_1;
 button2.innerHTML = cur_character.ans_text_2;
 video.src = cur_character.videos[0].story_path;
 
-audio.volume = 0.2;
+audio.volume = 0.08;
 
 
 // video.play();
